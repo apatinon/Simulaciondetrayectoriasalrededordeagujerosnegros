@@ -6,3 +6,5 @@ Basicamente definimos haces de luz que dejan estelas detrás de ellos y calculam
 Este es un ejemplo básico de cálculo de trayectorias con pasos, hay que tener en cuenta que el agujero negro es muy simple, no rota, la deformación espacial alrededor de él es constante, no varía en el tiempo.
 
 Lo ideal sería poder usar constantes reales y elevar la simulación a cosas más complejas.
+
+Si se quieren ver los resultados se recomienda abrir seguir el enlace de collab.
